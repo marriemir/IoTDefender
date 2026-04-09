@@ -1,3 +1,9 @@
+## License
+
+This repository is provided for research and review purposes only.  
+All rights are reserved by the author.  
+
+The code will be released under an open-source license upon acceptance or publication of the associated research paper.
 ## Datasets
 
 The datasets used in this study and their sources are listed below:
